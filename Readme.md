@@ -2,6 +2,11 @@
 
 Este repositório contém a suíte de automação de testes de API para o projeto **Meu Calendário (PHP/MySQL)**, utilizando o **Cypress** para garantir a integridade dos dados e o fluxo de trabalho do *backend*.
 
+<p align="center">
+    <img height="360" src="img/1.png" alt="Captura de testes"/>
+  </a>
+</p>
+
 ---
 
 ## 💻 1. Visão Geral da Automação
